@@ -1,0 +1,12 @@
+/Users/test/Desktop/Interfasces/Interface.deps.json
+/Users/test/Desktop/Interfasces/Interface.runtimeconfig.json
+/Users/test/Desktop/Interfasces/Interface.runtimeconfig.dev.json
+/Users/test/Desktop/Interfasces/Interface.dll
+/Users/test/Desktop/Interfasces/Interface.pdb
+/Users/test/Projects/Interface/obj/Debug/Interface.csprojAssemblyReference.cache
+/Users/test/Projects/Interface/obj/Debug/Interface.AssemblyInfoInputs.cache
+/Users/test/Projects/Interface/obj/Debug/Interface.AssemblyInfo.cs
+/Users/test/Projects/Interface/obj/Debug/Interface.csproj.CoreCompileInputs.cache
+/Users/test/Projects/Interface/obj/Debug/Interface.dll
+/Users/test/Projects/Interface/obj/Debug/Interface.pdb
+/Users/test/Projects/Interface/obj/Debug/Interface.genruntimeconfig.cache

@@ -10,7 +10,7 @@ namespace Interface
         public Gym()
         {
         }
-
+        
         public void AddAnimal(Animal animal)
         {
             animals.Add(animal);

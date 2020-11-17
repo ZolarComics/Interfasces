@@ -15,3 +15,13 @@
 /Users/test/Interfasces/bin/Debug/netcoreapp3.1/Interface.runtimeconfig.dev.json
 /Users/test/Interfasces/bin/Debug/netcoreapp3.1/Interface.dll
 /Users/test/Interfasces/bin/Debug/netcoreapp3.1/Interface.pdb
+/Users/test/Decktop/Interfaces/bin/Debug/netcoreapp3.1/Interface.deps.json
+/Users/test/Decktop/Interfaces/bin/Debug/netcoreapp3.1/Interface.runtimeconfig.json
+/Users/test/Decktop/Interfaces/bin/Debug/netcoreapp3.1/Interface.runtimeconfig.dev.json
+/Users/test/Decktop/Interfaces/bin/Debug/netcoreapp3.1/Interface.dll
+/Users/test/Decktop/Interfaces/bin/Debug/netcoreapp3.1/Interface.pdb
+/Users/test/Projects/Interfasce/bin/Debug/netcoreapp3.1/Interface.deps.json
+/Users/test/Projects/Interfasce/bin/Debug/netcoreapp3.1/Interface.runtimeconfig.json
+/Users/test/Projects/Interfasce/bin/Debug/netcoreapp3.1/Interface.runtimeconfig.dev.json
+/Users/test/Projects/Interfasce/bin/Debug/netcoreapp3.1/Interface.dll
+/Users/test/Projects/Interfasce/bin/Debug/netcoreapp3.1/Interface.pdb

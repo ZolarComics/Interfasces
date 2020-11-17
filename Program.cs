@@ -4,6 +4,7 @@ namespace Interface
 {
     class Program
     {
+        //
         static void Main(string[] args)
         {
             Dog d = new Dog("Bobik", new DateTime(2015,5,5));
